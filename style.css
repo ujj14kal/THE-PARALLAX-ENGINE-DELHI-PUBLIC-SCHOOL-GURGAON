@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Raleway', sans-serif;
+}
+
+.div1 {  
+width: auto;  
+text-align: center;  
+padding: 15px;    
+}  
+.div1 img {  
+max-width: 100%;  
+height: auto;  
+}  
